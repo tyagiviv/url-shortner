@@ -8,6 +8,8 @@
 # Icon must end with two \r
 Icon
 
+# Ignore venv env
+venv/
 
 # Thumbnails
 ._*
